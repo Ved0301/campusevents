@@ -1,0 +1,95 @@
+
+html{
+    font-size:22px;
+}
+body{
+        background-color: #CCD5FF;
+        color: black;
+}
+a{
+    color:black
+}
+a:visited{
+    color:chocolate
+}
+a:hover,a:active{
+    color:#979797;
+}
+.event-table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.event {
+    display: table-row;
+}
+
+.event > * {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center; /* Center-align the content within the cell */
+}
+
+h2, h3, p, img, address {
+    padding: 10px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.seminars-table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.seminars {
+    display: table-row;
+}
+
+.seminars > * {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center; /* Center-align the content within the cell */
+}
+
+h2, h3, p, img, address {
+    padding: 10px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.workshops-table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.workshops {
+    display: table-row;
+}
+
+.workshops > * {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center; /* Center-align the content within the cell */
+}
+
+h2, h3, p, img, address {
+    padding: 10px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
